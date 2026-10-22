@@ -10,6 +10,7 @@ void printNumbers(int n) {
     printNumbers(n + 1);
 }
 
+
 int main() {
     printNumbers(1);
     return 0;
